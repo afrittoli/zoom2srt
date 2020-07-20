@@ -1,2 +1,3 @@
-# zoom_chat_srt
-Transform a zoom chat to an SRT file
+# Convert Zoom Chat to SRT File
+
+Transform a zoom chat to an SRT file.
